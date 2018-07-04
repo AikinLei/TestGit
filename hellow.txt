@@ -1,3 +1,5 @@
 This is Git HelloWord！
 Please let us try to do it！
 Git is free software
+Git is very smart！
+Git is a distributed version control system！
